@@ -48,5 +48,6 @@ This project is an **Advanced Calculator** built using C with a graphical interf
    gcc main.c -o calculator -lgdi32 -lm
    ./calculator
 
+![image](https://github.com/user-attachments/assets/fb04170c-4831-4483-9165-829038cd1f2d)
 
 
